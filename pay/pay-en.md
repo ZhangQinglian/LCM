@@ -24,3 +24,4 @@ If you are willing to support the app and unlock advanced features through a don
 ### Price & QR Code
 
 **Donate 5$ to receive one activation code.**
+![](./paypal.png)
