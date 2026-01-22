@@ -2,7 +2,7 @@ Here is the English translation of the text. The tone has been kept professional
 
 ---
 
-### **Advanced Features for Light Cone Music Are Now Available for Activation via Donation!**
+### Advanced Features for Light Cone Music Are Now Available for Activation via Donation!
 
 Through a one-time donation, you can unlock more interesting, practical, and immersive local music experiences, further unleashing the full potential of "Light Cone Music."
 
@@ -10,7 +10,7 @@ To thank everyone for their continued support and recognition, all features rele
 
 If you are willing to support the app and unlock advanced features through a donation, please continue reading below.
 
-### **# How to Obtain Your Activation Code**
+### How to Obtain Your Activation Code
 
 1. **Read the Important Notes:** Please ensure you read the "Important Notes" section. Making a payment implies that you have read and understood the content within "Important Notes."
 2. **Get Your UUID:** If you have not copied your UUID yet, please navigate to the "Light Cone Pro" (光锥 Pro) page within the app and click the "Get Activation Code" button at the bottom of the page.
@@ -19,16 +19,16 @@ If you are willing to support the app and unlock advanced features through a don
 5. **Receive Code:** Upon receiving your email, I will reply with your activation code as soon as possible.
 6. **Activate:** Return to the "Light Cone Pro" page and enter the activation code to verify.
 
-### **# For Previous Donors**
+### For Previous Donors
 
 Please refer to the steps above for obtaining a code. Send your UUID and the screenshot of your **previous donation record** to **player.trantor@foxmail.com** using the **email address you previously noted/used**.
 
-### **⚠️ Important Notes**
+### ⚠️ Important Notes
 
 - **UUID Sensitivity:** The UUID is a unique identifier tied to a single installation of the application. **Uninstalling and reinstalling the app will reset the UUID**, and the original activation code will become invalid after a reset. Please avoid uninstalling the app arbitrarily.
 - **Device Changes/Reinstalls:** If you uninstall the app or switch phones, please **reply to the email** in which I sent the original activation code and include your **new UUID**. Once a new activation code is generated for you, the old one will be reclaimed.
 - **Fair Use:** In principle, I provide a lifetime service for replacing invalid codes due to device changes. However, if replacements are requested too frequently, a cooldown period will be triggered.
 
-### **# Price & QR Code**
+### Price & QR Code
 
 **Donate 5$ to receive one activation code.**
