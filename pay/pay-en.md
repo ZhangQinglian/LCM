@@ -1,7 +1,3 @@
-Here is the English translation of the text. The tone has been kept professional yet personal, matching the style of an independent developer communicating with their user base.
-
----
-
 ### Advanced Features for Light Cone Music Are Now Available for Activation via Donation!
 
 Through a one-time donation, you can unlock more interesting, practical, and immersive local music experiences, further unleashing the full potential of "Light Cone Music."
