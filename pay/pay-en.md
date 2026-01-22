@@ -15,10 +15,6 @@ If you are willing to support the app and unlock advanced features through a don
 5. **Receive Code:** Upon receiving your email, I will reply with your activation code as soon as possible.
 6. **Activate:** Return to the "Light Cone Pro" page and enter the activation code to verify.
 
-### For Previous Donors
-
-Please refer to the steps above for obtaining a code. Send your UUID and the screenshot of your **previous donation record** to **player.trantor@foxmail.com** using the **email address you previously noted/used**.
-
 ### ⚠️ Important Notes
 
 - **UUID Sensitivity:** The UUID is a unique identifier tied to a single installation of the application. **Uninstalling and reinstalling the app will reset the UUID**, and the original activation code will become invalid after a reset. Please avoid uninstalling the app arbitrarily.
